@@ -1,0 +1,6 @@
+[submodule "submodules/rime/rime-middle-chinese"]
+	path = submodules/rime/rime-middle-chinese
+	url = https://github.com/rime/rime-middle-chinese.git
+[submodule "submodules/Magnezone462/Zyevio"]
+	path = submodules/Magnezone462/Zyevio
+	url = https://github.com/Magnezone462/Zyevio
